@@ -1,0 +1,19 @@
+.Wishlist-Container{
+    flex-direction: row;
+    text-align: center;
+}
+
+
+.WishlistItem{
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+    
+    
+}
+.WishlistItem button{
+    margin-left: 10px;
+
+}

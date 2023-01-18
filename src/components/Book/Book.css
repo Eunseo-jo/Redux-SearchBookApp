@@ -1,0 +1,22 @@
+.Book-Container{
+    align-items: center;
+    margin: 20px;
+    border-bottom: 2px solid gray;
+    padding: 10px;
+    list-style-type: none;
+}
+.input-box{
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    margin: 10px;
+}
+.Book-Container img{
+   
+    float: left;
+    margin: 10px;
+    max-height: 190px;
+}
+.Book-Container h3{
+    display: flex;
+}
